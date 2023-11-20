@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bambus1337
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python, C++, JS.
+- 💞️ I’m looking to collaborate on making programs for money
+- 📫 How to reach me discord as Bambus
